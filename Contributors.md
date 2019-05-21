@@ -795,6 +795,7 @@ CMBloodMeridian
 - Masahiro
 - Jerry Zhang
 - Darrin Deal
+- Wilt Chamberlain
 - Manuprasad M
 - [Shawn Austin](https://github.com/JS-Austin)
 - [Aayush Gupta](https://github.com/aayushgupta97)
